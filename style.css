@@ -3,9 +3,10 @@
 }
 
 .container-fluid{
-    background: url(/images/https___i_redd.it_8px8re2bo3l81.gif);
     width: 100%;
     height: 100vh;
+    background: url(/images/Pixel\ Art\ Gif\ Wallpaper\ Wallpaper\ Keren.gif) no-repeat;
+    background-size:cover;
     display: flex;
     flex-direction: column;
     align-items: center;
